@@ -49,6 +49,13 @@
         "type": "group",
         "username": null,
         "addedAt": 1792160417402
+      },
+      "8852237353": {
+        "id": "8852237353",
+        "name": "Butuh Panel Legal? Cek bio",
+        "type": "user",
+        "username": "pvajg",
+        "addedAt": 1792160603841
       }
     }
   }
