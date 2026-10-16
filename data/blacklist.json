@@ -1,6 +1,13 @@
 {
   "8286316637": {
     "chats": {
+      "3832400682": {
+        "id": "3832400682",
+        "name": "ALL ROLE UBOT ZYIRA",
+        "type": "group",
+        "username": null,
+        "addedAt": 1792160416929
+      },
       "3901851746": {
         "id": "3901851746",
         "name": "χ-ƈơɖɛ [ UTAMA ]",
@@ -8,12 +15,40 @@
         "username": null,
         "addedAt": 1792160393640
       },
+      "3963890617": {
+        "id": "3963890617",
+        "name": "Ress Vps Nat - Buy Otomatis No Manual🤭",
+        "type": "group",
+        "username": "ressvpsnatt",
+        "addedAt": 1792160417626
+      },
       "3975926016": {
         "id": "3975926016",
         "name": "𝐄𝐕𝐄𝐑𝐋𝐄𝐈𝐆𝐇 [ 𝐔𝐓𝐀𝐌𝐀 ]",
         "type": "group",
         "username": null,
         "addedAt": 1792160404191
+      },
+      "4291954681": {
+        "id": "4291954681",
+        "name": "MURR RASUK",
+        "type": "group",
+        "username": "zyiraanjay",
+        "addedAt": 1792160417396
+      },
+      "4316143424": {
+        "id": "4316143424",
+        "name": "MURBAN X MURBUG BY ZYIRA",
+        "type": "group",
+        "username": null,
+        "addedAt": 1792160417164
+      },
+      "4298807839": {
+        "id": "4298807839",
+        "name": "RESELER AM PREM ANJAY",
+        "type": "group",
+        "username": null,
+        "addedAt": 1792160417402
       }
     }
   }
