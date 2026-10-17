@@ -2415,7 +2415,7 @@
     ]
   },
   "1247715939": {
-    "username": "kyroril",
+    "username": null,
     "entries": [
       {
         "username": "kyroril",
@@ -7406,6 +7406,11 @@
         "username": "sionnofficiall",
         "first": 1792244813507,
         "last": 1792244813507
+      },
+      {
+        "username": "sionnofficiall",
+        "first": 1792244832375,
+        "last": 1792244832375
       }
     ]
   },
@@ -30016,6 +30021,11 @@
         "username": "official_coindesk_support300",
         "first": 1792244571662,
         "last": 1792244571662
+      },
+      {
+        "username": "official_coindesk_support300",
+        "first": 1792244828975,
+        "last": 1792244828975
       }
     ]
   },
