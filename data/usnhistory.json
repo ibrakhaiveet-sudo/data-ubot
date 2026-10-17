@@ -14983,5 +14983,15 @@
         "last": 1792208479429
       }
     ]
+  },
+  "8405047604": {
+    "username": "kernel_snapshot_program",
+    "entries": [
+      {
+        "username": "kernel_snapshot_program",
+        "first": 1792208642438,
+        "last": 1792208642438
+      }
+    ]
   }
 }
