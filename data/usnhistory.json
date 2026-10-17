@@ -6781,6 +6781,11 @@
         "username": "zellentx",
         "first": 1792242267332,
         "last": 1792242267332
+      },
+      {
+        "username": "zellentx",
+        "first": 1792244100716,
+        "last": 1792244100716
       }
     ]
   },
@@ -29460,7 +29465,7 @@
     ]
   },
   "8914900380": {
-    "username": "official_coindesk_support300",
+    "username": null,
     "entries": [
       {
         "username": "official_coindesk_support300",
