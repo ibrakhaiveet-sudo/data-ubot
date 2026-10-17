@@ -925,12 +925,17 @@
     ]
   },
   "939202824": {
-    "username": null,
+    "username": "secretsbans",
     "entries": [
       {
         "username": "secretsbans",
         "first": 1792225213575,
         "last": 1792225213575
+      },
+      {
+        "username": "secretsbans",
+        "first": 1792245490420,
+        "last": 1792245490420
       }
     ]
   },
@@ -18400,7 +18405,7 @@
     ]
   },
   "8970581828": {
-    "username": "rizzkaizen",
+    "username": null,
     "entries": [
       {
         "username": "rizzkaizen",
@@ -18436,6 +18441,11 @@
         "username": "rizzkaizen",
         "first": 1792245487842,
         "last": 1792245487842
+      },
+      {
+        "username": "rizzkaizen",
+        "first": 1792245490969,
+        "last": 1792245490969
       }
     ]
   },
