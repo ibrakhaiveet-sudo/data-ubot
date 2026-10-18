@@ -3015,7 +3015,7 @@
     ]
   },
   "1137277358": {
-    "username": "maklobugil",
+    "username": null,
     "entries": [
       {
         "username": "maklobugil",
@@ -50870,7 +50870,7 @@
     ]
   },
   "8378859026": {
-    "username": null,
+    "username": "official_coindesk_support7895",
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -50991,6 +50991,11 @@
         "username": "official_coindesk_support7895",
         "first": 1792324287880,
         "last": 1792324287880
+      },
+      {
+        "username": "official_coindesk_support7895",
+        "first": 1792324680477,
+        "last": 1792324680477
       }
     ]
   },
