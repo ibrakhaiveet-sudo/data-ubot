@@ -37741,6 +37741,11 @@
         "username": "meyrate",
         "first": 1792342734895,
         "last": 1792342734895
+      },
+      {
+        "username": "meyrate",
+        "first": 1792346647309,
+        "last": 1792346647309
       }
     ]
   },
@@ -57445,7 +57450,7 @@
     ]
   },
   "8378859026": {
-    "username": "official_coindesk_support7895",
+    "username": null,
     "entries": [
       {
         "username": "official_coindesk_support7895",
