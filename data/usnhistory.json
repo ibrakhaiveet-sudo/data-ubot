@@ -26915,7 +26915,7 @@
     ]
   },
   "5800039861": {
-    "username": "zeetofficial",
+    "username": null,
     "entries": [
       {
         "username": "zeetofficial",
@@ -55005,7 +55005,7 @@
     ]
   },
   "8378859026": {
-    "username": null,
+    "username": "official_coindesk_support7895",
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -55226,6 +55226,11 @@
         "username": "official_coindesk_support7895",
         "first": 1792337329872,
         "last": 1792337329872
+      },
+      {
+        "username": "official_coindesk_support7895",
+        "first": 1792337827651,
+        "last": 1792337827651
       }
     ]
   },
