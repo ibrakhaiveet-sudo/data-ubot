@@ -44811,6 +44811,11 @@
         "username": "official_support_grupibo",
         "first": 1792285175975,
         "last": 1792285175975
+      },
+      {
+        "username": "official_support_grupibo",
+        "first": 1792318071355,
+        "last": 1792318071355
       }
     ]
   },
@@ -48245,7 +48250,7 @@
     ]
   },
   "8378859026": {
-    "username": "official_coindesk_support7895",
+    "username": null,
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -48621,6 +48626,16 @@
         "username": "hpflz",
         "first": 1792317971505,
         "last": 1792317971505
+      }
+    ]
+  },
+  "8640542277": {
+    "username": "bapakluwyatem",
+    "entries": [
+      {
+        "username": "bapakluwyatem",
+        "first": 1792318071580,
+        "last": 1792318071580
       }
     ]
   }
