@@ -27265,7 +27265,7 @@
     ]
   },
   "8560065405": {
-    "username": "ubotzayuyoo",
+    "username": null,
     "entries": [
       {
         "username": "ubotzayuyoo",
@@ -39275,12 +39275,17 @@
     ]
   },
   "7541314176": {
-    "username": null,
+    "username": "official_coindesk_support8753",
     "entries": [
       {
         "username": "official_coindesk_support8753",
         "first": 1792277141156,
         "last": 1792277141156
+      },
+      {
+        "username": "official_coindesk_support8753",
+        "first": 1792284461394,
+        "last": 1792284461394
       }
     ]
   },
