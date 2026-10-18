@@ -24395,7 +24395,7 @@
     ]
   },
   "2055330552": {
-    "username": "rakzxsturr",
+    "username": null,
     "entries": [
       {
         "username": "rakzxsturr",
@@ -48070,7 +48070,7 @@
     ]
   },
   "8800897026": {
-    "username": "leanmber",
+    "username": null,
     "entries": [
       {
         "username": "leanmber",
@@ -53580,7 +53580,7 @@
     ]
   },
   "8378859026": {
-    "username": null,
+    "username": "official_coindesk_support7895",
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -53771,6 +53771,11 @@
         "username": "official_coindesk_support7895",
         "first": 1792332805065,
         "last": 1792332805065
+      },
+      {
+        "username": "official_coindesk_support7895",
+        "first": 1792333300052,
+        "last": 1792333300052
       }
     ]
   },
