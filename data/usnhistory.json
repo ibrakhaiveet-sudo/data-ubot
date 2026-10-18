@@ -4975,7 +4975,7 @@
     ]
   },
   "1354365648": {
-    "username": "geabl",
+    "username": null,
     "entries": [
       {
         "username": "geabl",
@@ -32606,6 +32606,11 @@
         "username": "teatlas",
         "first": 1792316453208,
         "last": 1792316453208
+      },
+      {
+        "username": "teatlas",
+        "first": 1792317192562,
+        "last": 1792317192562
       }
     ]
   },
@@ -47945,7 +47950,7 @@
     ]
   },
   "8378859026": {
-    "username": "official_coindesk_support7895",
+    "username": null,
     "entries": [
       {
         "username": "official_coindesk_support7895",
