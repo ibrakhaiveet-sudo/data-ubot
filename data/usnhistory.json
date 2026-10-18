@@ -41230,7 +41230,7 @@
     ]
   },
   "8982475001": {
-    "username": "lankzzz",
+    "username": null,
     "entries": [
       {
         "username": "lankzzz",
@@ -53110,7 +53110,7 @@
     ]
   },
   "8378859026": {
-    "username": null,
+    "username": "official_coindesk_support7895",
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -53291,6 +53291,11 @@
         "username": "official_coindesk_support7895",
         "first": 1792331522417,
         "last": 1792331522417
+      },
+      {
+        "username": "official_coindesk_support7895",
+        "first": 1792331888445,
+        "last": 1792331888445
       }
     ]
   },
