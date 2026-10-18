@@ -57095,7 +57095,7 @@
     ]
   },
   "8637012521": {
-    "username": "kacibadugam",
+    "username": null,
     "entries": [
       {
         "username": "kacibadugam",
@@ -57360,7 +57360,7 @@
     ]
   },
   "8378859026": {
-    "username": null,
+    "username": "official_coindesk_support7895",
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -57656,6 +57656,11 @@
         "username": "official_coindesk_support7895",
         "first": 1792345879478,
         "last": 1792345879478
+      },
+      {
+        "username": "official_coindesk_support7895",
+        "first": 1792346333360,
+        "last": 1792346333360
       }
     ]
   },
