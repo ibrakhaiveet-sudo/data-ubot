@@ -1,0 +1,11 @@
+{
+  "7633766312": {
+    "enabled": true,
+    "mode": "pv",
+    "cooldown": 30,
+    "reply": {
+      "text": "addbl/ .addbl",
+      "entities": []
+    }
+  }
+}
