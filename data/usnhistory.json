@@ -1140,7 +1140,7 @@
     ]
   },
   "1300034883": {
-    "username": null,
+    "username": "azerathus",
     "entries": [
       {
         "username": "azerathus",
@@ -1166,6 +1166,11 @@
         "username": "azerathus",
         "first": 1792391860494,
         "last": 1792391860494
+      },
+      {
+        "username": "azerathus",
+        "first": 1792395500981,
+        "last": 1792395500981
       }
     ]
   },
