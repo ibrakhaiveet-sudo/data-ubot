@@ -316,6 +316,13 @@
         "type": "user",
         "username": "Panzcu",
         "addedAt": 1792390660655
+      },
+      "4354832986": {
+        "id": "4354832986",
+        "name": "PARTNER NECRO",
+        "type": "group",
+        "username": null,
+        "addedAt": 1792390874927
       }
     }
   }
