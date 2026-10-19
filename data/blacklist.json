@@ -274,6 +274,13 @@
         "type": "user",
         "username": "WeddAbcd",
         "addedAt": 1792389479334
+      },
+      "4468948113": {
+        "id": "4468948113",
+        "name": "ROLE PANEL PRIVATE",
+        "type": "group",
+        "username": null,
+        "addedAt": 1792389802335
       }
     }
   }
