@@ -17030,7 +17030,7 @@
     ]
   },
   "8378859026": {
-    "username": "official_coindesk_support7895",
+    "username": null,
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -20485,7 +20485,7 @@
     ]
   },
   "5967070544": {
-    "username": null,
+    "username": "lyorapherine",
     "entries": [
       {
         "username": "lyorapherine",
@@ -20506,6 +20506,11 @@
         "username": "lyorapherine",
         "first": 1792434486810,
         "last": 1792434486810
+      },
+      {
+        "username": "lyorapherine",
+        "first": 1792436909653,
+        "last": 1792436909653
       }
     ]
   },
