@@ -3505,7 +3505,7 @@
     ]
   },
   "1353993690": {
-    "username": "mnvz1",
+    "username": null,
     "entries": [
       {
         "username": "mnvz1",
@@ -13870,7 +13870,7 @@
     ]
   },
   "8378859026": {
-    "username": null,
+    "username": "official_coindesk_support7895",
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -14146,6 +14146,11 @@
         "username": "official_coindesk_support7895",
         "first": 1792419352009,
         "last": 1792419352009
+      },
+      {
+        "username": "official_coindesk_support7895",
+        "first": 1792419821376,
+        "last": 1792419821376
       }
     ]
   },
