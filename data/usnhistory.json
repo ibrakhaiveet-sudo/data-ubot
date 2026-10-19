@@ -6810,7 +6810,7 @@
     ]
   },
   "8914900380": {
-    "username": null,
+    "username": "official_coindesk_support300",
     "entries": [
       {
         "username": "official_coindesk_support300",
@@ -6831,6 +6831,11 @@
         "username": "official_coindesk_support300",
         "first": 1792397347078,
         "last": 1792397347078
+      },
+      {
+        "username": "official_coindesk_support300",
+        "first": 1792397537655,
+        "last": 1792397537655
       }
     ]
   },
