@@ -490,7 +490,7 @@
     ]
   },
   "1182979766": {
-    "username": "lovematchalyn",
+    "username": null,
     "entries": [
       {
         "username": "lovematchalyn",
@@ -2310,7 +2310,7 @@
     ]
   },
   "2048950525": {
-    "username": "ibanz",
+    "username": null,
     "entries": [
       {
         "username": "ibanz",
@@ -5050,7 +5050,7 @@
     ]
   },
   "8378859026": {
-    "username": null,
+    "username": "official_coindesk_support7895",
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -5086,6 +5086,11 @@
         "username": "official_coindesk_support7895",
         "first": 1792390878490,
         "last": 1792390878490
+      },
+      {
+        "username": "official_coindesk_support7895",
+        "first": 1792391381043,
+        "last": 1792391381043
       }
     ]
   },
