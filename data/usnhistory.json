@@ -13091,6 +13091,11 @@
         "username": "noktel0001",
         "first": 1792431417899,
         "last": 1792431417899
+      },
+      {
+        "username": "noktel0001",
+        "first": 1792433049222,
+        "last": 1792433049222
       }
     ]
   },
@@ -16570,7 +16575,7 @@
     ]
   },
   "8378859026": {
-    "username": "official_coindesk_support7895",
+    "username": null,
     "entries": [
       {
         "username": "official_coindesk_support7895",
