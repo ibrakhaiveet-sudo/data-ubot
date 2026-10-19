@@ -2895,7 +2895,7 @@
     ]
   },
   "1252686267": {
-    "username": "zhaherofficial",
+    "username": null,
     "entries": [
       {
         "username": "zhaherofficial",
@@ -13700,7 +13700,7 @@
     ]
   },
   "8378859026": {
-    "username": null,
+    "username": "official_coindesk_support7895",
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -13971,6 +13971,11 @@
         "username": "official_coindesk_support7895",
         "first": 1792418878869,
         "last": 1792418878869
+      },
+      {
+        "username": "official_coindesk_support7895",
+        "first": 1792419352009,
+        "last": 1792419352009
       }
     ]
   },
