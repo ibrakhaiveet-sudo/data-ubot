@@ -3281,6 +3281,11 @@
         "username": "kittyrav",
         "first": 1792424145948,
         "last": 1792424145948
+      },
+      {
+        "username": "kittyrav",
+        "first": 1792425072886,
+        "last": 1792425072886
       }
     ]
   },
@@ -3535,7 +3540,7 @@
     ]
   },
   "1300034883": {
-    "username": "azerathus",
+    "username": null,
     "entries": [
       {
         "username": "azerathus",
