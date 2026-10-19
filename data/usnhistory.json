@@ -1460,7 +1460,7 @@
     ]
   },
   "1339031742": {
-    "username": "ikyymaunikah",
+    "username": null,
     "entries": [
       {
         "username": "ikyymaunikah",
@@ -7065,7 +7065,7 @@
     ]
   },
   "8378859026": {
-    "username": null,
+    "username": "official_coindesk_support7895",
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -7156,6 +7156,11 @@
         "username": "official_coindesk_support7895",
         "first": 1792398061022,
         "last": 1792398061022
+      },
+      {
+        "username": "official_coindesk_support7895",
+        "first": 1792398543411,
+        "last": 1792398543411
       }
     ]
   },
