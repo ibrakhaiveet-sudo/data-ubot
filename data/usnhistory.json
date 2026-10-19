@@ -13815,7 +13815,7 @@
     ]
   },
   "8378859026": {
-    "username": "official_coindesk_support7895",
+    "username": null,
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -20250,7 +20250,7 @@
     ]
   },
   "6278299155": {
-    "username": null,
+    "username": "r4vndacc",
     "entries": [
       {
         "username": "r4vndacc",
@@ -20266,6 +20266,11 @@
         "username": "r4vndacc",
         "first": 1792407541357,
         "last": 1792407541357
+      },
+      {
+        "username": "r4vndacc",
+        "first": 1792419677331,
+        "last": 1792419677331
       }
     ]
   },
@@ -23220,7 +23225,7 @@
     ]
   },
   "8132696421": {
-    "username": "yoxyemperor",
+    "username": null,
     "entries": [
       {
         "username": "yoxyemperor",
@@ -25125,7 +25130,7 @@
     ]
   },
   "8562138543": {
-    "username": "coindesk_support287",
+    "username": null,
     "entries": [
       {
         "username": "coindesk_support287",
@@ -25136,6 +25141,11 @@
         "username": "coindesk_support287",
         "first": 1792419643836,
         "last": 1792419643836
+      },
+      {
+        "username": "coindesk_support287",
+        "first": 1792419673744,
+        "last": 1792419673744
       }
     ]
   }
