@@ -2570,7 +2570,7 @@
     ]
   },
   "8525372642": {
-    "username": null,
+    "username": "gooldban",
     "entries": [
       {
         "username": "policeban2",
@@ -2591,6 +2591,11 @@
         "username": "gooldban",
         "first": 1792386595755,
         "last": 1792386595755
+      },
+      {
+        "username": "gooldban",
+        "first": 1792386675394,
+        "last": 1792386675394
       }
     ]
   },
