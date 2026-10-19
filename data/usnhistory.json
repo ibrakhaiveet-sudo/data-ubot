@@ -2581,6 +2581,11 @@
         "username": "gooldban",
         "first": 1792386094714,
         "last": 1792386094714
+      },
+      {
+        "username": "gooldban",
+        "first": 1792386595755,
+        "last": 1792386595755
       }
     ]
   },
@@ -3606,6 +3611,16 @@
         "username": "coindesk_support612",
         "first": 1792386484959,
         "last": 1792386484959
+      }
+    ]
+  },
+  "8914900380": {
+    "username": null,
+    "entries": [
+      {
+        "username": "official_coindesk_support300",
+        "first": 1792386595381,
+        "last": 1792386595381
       }
     ]
   }
