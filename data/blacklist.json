@@ -330,6 +330,13 @@
         "type": "user",
         "username": "Xbugzname",
         "addedAt": 1792390936545
+      },
+      "4458222456": {
+        "id": "4458222456",
+        "name": "ACC BOT / HIGHT ASSIST",
+        "type": "group",
+        "username": null,
+        "addedAt": 1792390973596
       }
     }
   }
