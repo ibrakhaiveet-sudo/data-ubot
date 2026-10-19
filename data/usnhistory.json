@@ -5421,6 +5421,11 @@
         "username": "sakata_real",
         "first": 1792414429934,
         "last": 1792414429934
+      },
+      {
+        "username": "sakata_real",
+        "first": 1792414486859,
+        "last": 1792414486859
       }
     ]
   },
@@ -7765,7 +7770,7 @@
     ]
   },
   "2123329759": {
-    "username": "vennotdev",
+    "username": null,
     "entries": [
       {
         "username": "vennotdev",
