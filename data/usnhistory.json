@@ -4065,7 +4065,7 @@
     ]
   },
   "1576834717": {
-    "username": "originalbanss",
+    "username": null,
     "entries": [
       {
         "username": "originalbanss",
@@ -11530,7 +11530,7 @@
     ]
   },
   "8378859026": {
-    "username": null,
+    "username": "official_coindesk_support7895",
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -11741,6 +11741,11 @@
         "username": "official_coindesk_support7895",
         "first": 1792411342153,
         "last": 1792411342153
+      },
+      {
+        "username": "official_coindesk_support7895",
+        "first": 1792411744601,
+        "last": 1792411744601
       }
     ]
   },
