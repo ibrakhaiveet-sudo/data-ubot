@@ -1,6 +1,6 @@
 {
   "7633766312": {
-    "enabled": true,
+    "enabled": false,
     "mode": "pv",
     "cooldown": 30,
     "reply": {
