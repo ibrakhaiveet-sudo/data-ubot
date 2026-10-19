@@ -6045,7 +6045,7 @@
     ]
   },
   "8378957541": {
-    "username": null,
+    "username": "kaffpromosi",
     "entries": [
       {
         "username": "official_coindesk34",
@@ -6056,6 +6056,11 @@
         "username": "official_coindesk34",
         "first": 1792388000563,
         "last": 1792388000563
+      },
+      {
+        "username": "kaffpromosi",
+        "first": 1792394399471,
+        "last": 1792394399471
       }
     ]
   },
