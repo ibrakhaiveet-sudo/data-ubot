@@ -1580,7 +1580,7 @@
     ]
   },
   "1007189444": {
-    "username": "ryuunakagawa",
+    "username": null,
     "entries": [
       {
         "username": "ryuunakagawa",
@@ -5110,7 +5110,7 @@
     ]
   },
   "1341370908": {
-    "username": null,
+    "username": "fikrics",
     "entries": [
       {
         "username": "fikrics",
@@ -5176,6 +5176,11 @@
         "username": "fikrics",
         "first": 1792453230674,
         "last": 1792453230674
+      },
+      {
+        "username": "fikrics",
+        "first": 1792460601881,
+        "last": 1792460601881
       }
     ]
   },
