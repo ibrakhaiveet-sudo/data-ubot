@@ -26960,7 +26960,7 @@
     ]
   },
   "7373486317": {
-    "username": "nexusxxi",
+    "username": null,
     "entries": [
       {
         "username": "nexusxxi",
@@ -29355,7 +29355,7 @@
     ]
   },
   "8378859026": {
-    "username": null,
+    "username": "official_coindesk_support7895",
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -30306,6 +30306,11 @@
         "username": "official_coindesk_support7895",
         "first": 1792498256471,
         "last": 1792498256471
+      },
+      {
+        "username": "official_coindesk_support7895",
+        "first": 1792498728626,
+        "last": 1792498728626
       }
     ]
   },
