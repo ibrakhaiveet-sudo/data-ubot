@@ -3055,7 +3055,7 @@
     ]
   },
   "1194378365": {
-    "username": "telsuki",
+    "username": null,
     "entries": [
       {
         "username": "sarzcxc",
@@ -24070,7 +24070,7 @@
     ]
   },
   "8378859026": {
-    "username": null,
+    "username": "official_coindesk_support7895",
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -24881,6 +24881,11 @@
         "username": "official_coindesk_support7895",
         "first": 1792480990153,
         "last": 1792480990153
+      },
+      {
+        "username": "official_coindesk_support7895",
+        "first": 1792481382028,
+        "last": 1792481382028
       }
     ]
   },
