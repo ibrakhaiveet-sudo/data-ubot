@@ -12590,7 +12590,7 @@
     ]
   },
   "1576834717": {
-    "username": "fsocietybanindo",
+    "username": null,
     "entries": [
       {
         "username": "originalbanss",
@@ -12826,6 +12826,11 @@
         "username": "fsocietybanindo",
         "first": 1792518648147,
         "last": 1792518648147
+      },
+      {
+        "username": "fsocietybanindo",
+        "first": 1792518651138,
+        "last": 1792518651138
       }
     ]
   },
