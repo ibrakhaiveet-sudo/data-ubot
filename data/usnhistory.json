@@ -17315,7 +17315,7 @@
     ]
   },
   "1808479387": {
-    "username": null,
+    "username": "usersbans",
     "entries": [
       {
         "username": "usersbans",
@@ -17326,6 +17326,11 @@
         "username": "usersbans",
         "first": 1792491942478,
         "last": 1792491942478
+      },
+      {
+        "username": "usersbans",
+        "first": 1792521514320,
+        "last": 1792521514320
       }
     ]
   },
@@ -20595,7 +20600,7 @@
     ]
   },
   "1913858826": {
-    "username": "ambeliveble",
+    "username": null,
     "entries": [
       {
         "username": "ambeliveble",
