@@ -9745,7 +9745,7 @@
     ]
   },
   "1416508993": {
-    "username": "rafatharcode",
+    "username": null,
     "entries": [
       {
         "username": "rafatharcode",
@@ -32255,7 +32255,7 @@
     ]
   },
   "8378859026": {
-    "username": null,
+    "username": "official_coindesk_support7895",
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -33316,6 +33316,11 @@
         "username": "official_coindesk_support7895",
         "first": 1792511650288,
         "last": 1792511650288
+      },
+      {
+        "username": "official_coindesk_support7895",
+        "first": 1792512129537,
+        "last": 1792512129537
       }
     ]
   },
