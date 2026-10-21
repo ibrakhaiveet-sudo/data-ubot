@@ -1755,7 +1755,7 @@
     ]
   },
   "1181865630": {
-    "username": null,
+    "username": "jeffcloud",
     "entries": [
       {
         "username": "jeffcloud",
@@ -1771,6 +1771,11 @@
         "username": "jeffcloud",
         "first": 1792579565703,
         "last": 1792579565703
+      },
+      {
+        "username": "jeffcloud",
+        "first": 1792581136638,
+        "last": 1792581136638
       }
     ]
   },
@@ -2725,7 +2730,7 @@
     ]
   },
   "1300034883": {
-    "username": null,
+    "username": "azerathus",
     "entries": [
       {
         "username": "azerathus",
@@ -2831,6 +2836,11 @@
         "username": "azerathus",
         "first": 1792577105824,
         "last": 1792577105824
+      },
+      {
+        "username": "azerathus",
+        "first": 1792581137234,
+        "last": 1792581137234
       }
     ]
   },
