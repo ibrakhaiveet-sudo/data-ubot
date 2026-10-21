@@ -735,7 +735,7 @@
     ]
   },
   "963383254": {
-    "username": "jarrslow",
+    "username": null,
     "entries": [
       {
         "username": "jarrslow",
@@ -1730,7 +1730,7 @@
     ]
   },
   "1178507486": {
-    "username": "vhamzy",
+    "username": null,
     "entries": [
       {
         "username": "vhamzy",
@@ -8391,6 +8391,11 @@
         "username": "teatlas",
         "first": 1792586134787,
         "last": 1792586134787
+      },
+      {
+        "username": "teatlas",
+        "first": 1792586905588,
+        "last": 1792586905588
       }
     ]
   },
@@ -8520,7 +8525,7 @@
     ]
   },
   "8378859026": {
-    "username": "official_coindesk_support7895",
+    "username": null,
     "entries": [
       {
         "username": "official_coindesk_support7895",
