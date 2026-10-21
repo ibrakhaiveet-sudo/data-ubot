@@ -10860,7 +10860,7 @@
     ]
   },
   "5510813257": {
-    "username": "teatlas",
+    "username": null,
     "entries": [
       {
         "username": "teatlas",
@@ -12850,7 +12850,7 @@
     ]
   },
   "8063567723": {
-    "username": "brucenxy",
+    "username": null,
     "entries": [
       {
         "username": "brucenxy",
@@ -20700,7 +20700,7 @@
     ]
   },
   "8377500531": {
-    "username": "nayyaslebeww",
+    "username": null,
     "entries": [
       {
         "username": "nayyaslebeww",
@@ -28486,6 +28486,11 @@
         "username": "coindesk_support287",
         "first": 1792592566130,
         "last": 1792592566130
+      },
+      {
+        "username": "coindesk_support287",
+        "first": 1792600424762,
+        "last": 1792600424762
       }
     ]
   },
