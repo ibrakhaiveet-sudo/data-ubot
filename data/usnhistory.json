@@ -3540,7 +3540,7 @@
     ]
   },
   "8378859026": {
-    "username": "official_coindesk_support7895",
+    "username": null,
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -4751,6 +4751,11 @@
         "username": "pinzyvillain",
         "first": 1792562317865,
         "last": 1792562317865
+      },
+      {
+        "username": "pinzyvillain",
+        "first": 1792562798204,
+        "last": 1792562798204
       }
     ]
   },
