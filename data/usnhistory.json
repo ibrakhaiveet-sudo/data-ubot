@@ -4335,7 +4335,7 @@
     ]
   },
   "1300034883": {
-    "username": "azerathus",
+    "username": null,
     "entries": [
       {
         "username": "azerathus",
@@ -29221,6 +29221,16 @@
         "username": "adji_pgstu_dev",
         "first": 1792600590252,
         "last": 1792600590252
+      }
+    ]
+  },
+  "8741048483": {
+    "username": "his_heart_belongsto_lucy",
+    "entries": [
+      {
+        "username": "his_heart_belongsto_lucy",
+        "first": 1792600785581,
+        "last": 1792600785581
       }
     ]
   }
