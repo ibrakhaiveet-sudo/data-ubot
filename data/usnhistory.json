@@ -4375,12 +4375,17 @@
     ]
   },
   "1477522933": {
-    "username": null,
+    "username": "dafnotfav",
     "entries": [
       {
         "username": "dafnotfav",
         "first": 1792547131207,
         "last": 1792547131207
+      },
+      {
+        "username": "dafnotfav",
+        "first": 1792583224436,
+        "last": 1792583224436
       }
     ]
   },
@@ -14775,7 +14780,7 @@
     ]
   },
   "8129534264": {
-    "username": null,
+    "username": "floxid",
     "entries": [
       {
         "username": "floxid",
@@ -14801,6 +14806,11 @@
         "username": "floxid",
         "first": 1792574356036,
         "last": 1792574356036
+      },
+      {
+        "username": "floxid",
+        "first": 1792583224288,
+        "last": 1792583224288
       }
     ]
   },
