@@ -8165,7 +8165,7 @@
     ]
   },
   "8378859026": {
-    "username": "official_coindesk_support7895",
+    "username": null,
     "entries": [
       {
         "username": "official_coindesk_support7895",
@@ -15275,7 +15275,7 @@
     ]
   },
   "8895231151": {
-    "username": null,
+    "username": "anggashoop",
     "entries": [
       {
         "username": "anggashoop",
@@ -15296,6 +15296,11 @@
         "username": "anggashoop",
         "first": 1792584106526,
         "last": 1792584106526
+      },
+      {
+        "username": "anggashoop",
+        "first": 1792584496361,
+        "last": 1792584496361
       }
     ]
   },
