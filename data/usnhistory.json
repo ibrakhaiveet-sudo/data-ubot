@@ -31445,7 +31445,7 @@
     ]
   },
   "8775666061": {
-    "username": "finzjs",
+    "username": null,
     "entries": [
       {
         "username": "finzjs",
@@ -38576,6 +38576,11 @@
         "username": "coindesk_support1205",
         "first": 1792762778830,
         "last": 1792762778830
+      },
+      {
+        "username": "coindesk_support1205",
+        "first": 1792762803151,
+        "last": 1792762803151
       }
     ]
   },
