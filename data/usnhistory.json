@@ -45831,6 +45831,11 @@
         "username": "bluemultiverse",
         "first": 1792765482570,
         "last": 1792765482570
+      },
+      {
+        "username": "bluemultiverse",
+        "first": 1792765546982,
+        "last": 1792765546982
       }
     ]
   },
@@ -46040,7 +46045,7 @@
     ]
   },
   "8630229563": {
-    "username": "coindesk_support278",
+    "username": null,
     "entries": [
       {
         "username": "hellagng",
@@ -50801,6 +50806,16 @@
         "username": "hanzstr30",
         "first": 1792765530436,
         "last": 1792765530436
+      }
+    ]
+  },
+  "8872557132": {
+    "username": "zoroonokos",
+    "entries": [
+      {
+        "username": "zoroonokos",
+        "first": 1792765547982,
+        "last": 1792765547982
       }
     ]
   }
