@@ -42670,7 +42670,7 @@
     ]
   },
   "5167583280": {
-    "username": null,
+    "username": "gwriders",
     "entries": [
       {
         "username": "gwriders",
@@ -42716,6 +42716,11 @@
         "username": "gwriders",
         "first": 1792810546013,
         "last": 1792810546013
+      },
+      {
+        "username": "gwriders",
+        "first": 1792820808130,
+        "last": 1792820808130
       }
     ]
   },
@@ -56130,12 +56135,17 @@
     ]
   },
   "8891440782": {
-    "username": "x_kaks",
+    "username": "coindesk_support247",
     "entries": [
       {
         "username": "x_kaks",
         "first": 1792738484572,
         "last": 1792738484572
+      },
+      {
+        "username": "coindesk_support247",
+        "first": 1792820807922,
+        "last": 1792820807922
       }
     ]
   },
