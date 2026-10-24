@@ -7,5 +7,85 @@
       "text": ".addbl",
       "entities": []
     }
+  },
+  "8730626237": {
+    "enabled": true,
+    "mode": "pv",
+    "cooldown": 30,
+    "reply": {
+      "text": "🤪 HAII, ADA YANG BISA DI BANTU 🤖\\n\\n +\n                             > 📌 JANGAN SPAM YA KAK, ADMIN MASIH OFF / SIBUK 🧐👌\\n\\n +\n                             > 📢 JOIN ROOM PUBLIC >> [KLIK DISINI](${linkGrupPublik}) << ⭐\\n\\n +\n                             > 👑 OWNER : \\@AQUA1728\\ 👨‍💻\\n\\n +\n                             > 🔥 CHANNEL : [KLIK DISINI](${https://t.me/KANARA12}) 🔥`,",
+      "entities": [
+        {
+          "t": "MessageEntityBold",
+          "o": 3,
+          "l": 28
+        },
+        {
+          "t": "MessageEntityCode",
+          "o": 38,
+          "l": 32
+        },
+        {
+          "t": "MessageEntityBold",
+          "o": 75,
+          "l": 43
+        },
+        {
+          "t": "MessageEntityCode",
+          "o": 127,
+          "l": 32
+        },
+        {
+          "t": "MessageEntityBold",
+          "o": 164,
+          "l": 16
+        },
+        {
+          "t": "MessageEntityBold",
+          "o": 184,
+          "l": 32
+        },
+        {
+          "t": "MessageEntityCode",
+          "o": 225,
+          "l": 32
+        },
+        {
+          "t": "MessageEntityBold",
+          "o": 262,
+          "l": 5
+        },
+        {
+          "t": "MessageEntityCode",
+          "o": 271,
+          "l": 10
+        },
+        {
+          "t": "MessageEntityCode",
+          "o": 291,
+          "l": 32
+        },
+        {
+          "t": "MessageEntityBold",
+          "o": 328,
+          "l": 7
+        },
+        {
+          "t": "MessageEntityBold",
+          "o": 338,
+          "l": 16
+        },
+        {
+          "t": "MessageEntityBold",
+          "o": 354,
+          "l": 21
+        },
+        {
+          "t": "MessageEntityBold",
+          "o": 375,
+          "l": 2
+        }
+      ]
+    }
   }
 }
