@@ -375,7 +375,7 @@
     ]
   },
   "799769632": {
-    "username": null,
+    "username": "nhpdf",
     "entries": [
       {
         "username": "nhpdf",
@@ -396,6 +396,11 @@
         "username": "nhpdf",
         "first": 1792912663503,
         "last": 1792912663503
+      },
+      {
+        "username": "nhpdf",
+        "first": 1792916897518,
+        "last": 1792916897518
       }
     ]
   },
@@ -5225,7 +5230,7 @@
     ]
   },
   "2085011149": {
-    "username": null,
+    "username": "lakuinn",
     "entries": [
       {
         "username": "lakuinn",
@@ -5241,6 +5246,11 @@
         "username": "lakuinn",
         "first": 1792899660425,
         "last": 1792899660425
+      },
+      {
+        "username": "lakuinn",
+        "first": 1792916898556,
+        "last": 1792916898556
       }
     ]
   },
