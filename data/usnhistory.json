@@ -50,7 +50,7 @@
     ]
   },
   "963383254": {
-    "username": "jarrslow",
+    "username": null,
     "entries": [
       {
         "username": "jarrslow",
@@ -130,7 +130,7 @@
     ]
   },
   "1285621406": {
-    "username": null,
+    "username": "coindesk_support673",
     "entries": [
       {
         "username": "coindesk_support673",
@@ -166,6 +166,11 @@
         "username": "coindesk_support673",
         "first": 1792888216735,
         "last": 1792888216735
+      },
+      {
+        "username": "coindesk_support673",
+        "first": 1792888572524,
+        "last": 1792888572524
       }
     ]
   },
