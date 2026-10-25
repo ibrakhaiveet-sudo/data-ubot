@@ -680,7 +680,7 @@
     ]
   },
   "1477522933": {
-    "username": "dafnotfav",
+    "username": null,
     "entries": [
       {
         "username": "dafnotfav",
@@ -3575,7 +3575,7 @@
     ]
   },
   "6582518033": {
-    "username": "meyrate",
+    "username": null,
     "entries": [
       {
         "username": "meyrate",
@@ -4606,6 +4606,11 @@
         "username": "vexlerxd",
         "first": 1792899144433,
         "last": 1792899144433
+      },
+      {
+        "username": "vexlerxd",
+        "first": 1792899777548,
+        "last": 1792899777548
       }
     ]
   },
