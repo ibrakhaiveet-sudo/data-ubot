@@ -17685,7 +17685,7 @@
     ]
   },
   "8921690858": {
-    "username": "brrqss",
+    "username": null,
     "entries": [
       {
         "username": "brrqss",
@@ -18936,6 +18936,16 @@
         "username": "kenken2764",
         "first": 1792930520129,
         "last": 1792930520129
+      }
+    ]
+  },
+  "8713969311": {
+    "username": "lauu_siape",
+    "entries": [
+      {
+        "username": "lauu_siape",
+        "first": 1792930683566,
+        "last": 1792930683566
       }
     ]
   }
