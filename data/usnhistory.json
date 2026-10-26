@@ -2055,7 +2055,7 @@
     ]
   },
   "1128387862": {
-    "username": "shadowsr99",
+    "username": null,
     "entries": [
       {
         "username": "shadowsr99",
@@ -2445,7 +2445,7 @@
     ]
   },
   "1177297962": {
-    "username": null,
+    "username": "terrorbans",
     "entries": [
       {
         "username": "terrorbans",
@@ -2476,6 +2476,11 @@
         "username": "terrorbans",
         "first": 1793004487250,
         "last": 1793004487250
+      },
+      {
+        "username": "terrorbans",
+        "first": 1793004931402,
+        "last": 1793004931402
       }
     ]
   },
