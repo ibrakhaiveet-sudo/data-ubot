@@ -2855,7 +2855,7 @@
     ]
   },
   "1177297962": {
-    "username": null,
+    "username": "terrorbans",
     "entries": [
       {
         "username": "terrorbans",
@@ -2896,6 +2896,11 @@
         "username": "terrorbans",
         "first": 1793005769915,
         "last": 1793005769915
+      },
+      {
+        "username": "terrorbans",
+        "first": 1793023931143,
+        "last": 1793023931143
       }
     ]
   },
