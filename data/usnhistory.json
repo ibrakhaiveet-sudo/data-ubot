@@ -32705,7 +32705,7 @@
     ]
   },
   "8018436478": {
-    "username": "apanzxc",
+    "username": null,
     "entries": [
       {
         "username": "apanzxc",
@@ -59735,7 +59735,7 @@
     ]
   },
   "8602651641": {
-    "username": "zicnehu",
+    "username": null,
     "entries": [
       {
         "username": "zicnehu",
@@ -63370,7 +63370,7 @@
     ]
   },
   "8003726312": {
-    "username": "bitfinex_exchange_official2",
+    "username": null,
     "entries": [
       {
         "username": "bitfinex_exchange_official2",
@@ -63436,6 +63436,16 @@
         "username": "dapamodedark",
         "first": 1793095909789,
         "last": 1793095909789
+      }
+    ]
+  },
+  "6987817781": {
+    "username": "starkklvrz",
+    "entries": [
+      {
+        "username": "starkklvrz",
+        "first": 1793095942204,
+        "last": 1793095942204
       }
     ]
   }
