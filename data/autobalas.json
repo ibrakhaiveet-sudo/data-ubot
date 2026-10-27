@@ -87,5 +87,14 @@
         }
       ]
     }
+  },
+  "8911856198": {
+    "enabled": true,
+    "mode": "pv",
+    "cooldown": 30,
+    "reply": {
+      "text": "heeh meren",
+      "entities": []
+    }
   }
 }
