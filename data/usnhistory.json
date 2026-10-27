@@ -55610,7 +55610,7 @@
     ]
   },
   "8634019589": {
-    "username": "csartapedia",
+    "username": null,
     "entries": [
       {
         "username": "csartapedia",
@@ -55876,6 +55876,11 @@
         "username": "csartapedia",
         "first": 1793097420464,
         "last": 1793097420464
+      },
+      {
+        "username": "csartapedia",
+        "first": 1793097424074,
+        "last": 1793097424074
       }
     ]
   },
@@ -64585,7 +64590,7 @@
     ]
   },
   "8003726312": {
-    "username": null,
+    "username": "bitfinex_exchange_official2",
     "entries": [
       {
         "username": "bitfinex_exchange_official2",
@@ -64921,6 +64926,11 @@
         "username": "bitfinex_exchange_official2",
         "first": 1793097360289,
         "last": 1793097360289
+      },
+      {
+        "username": "bitfinex_exchange_official2",
+        "first": 1793097422930,
+        "last": 1793097422930
       }
     ]
   },
