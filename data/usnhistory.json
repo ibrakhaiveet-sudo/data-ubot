@@ -8795,12 +8795,17 @@
     ]
   },
   "1404380301": {
-    "username": null,
+    "username": "fastbannir",
     "entries": [
       {
         "username": "fastbannir",
         "first": 1793006135204,
         "last": 1793006135204
+      },
+      {
+        "username": "fastbannir",
+        "first": 1793095872825,
+        "last": 1793095872825
       }
     ]
   },
@@ -63356,6 +63361,11 @@
         "username": "bitfinex_exchange_official2",
         "first": 1793095862824,
         "last": 1793095862824
+      },
+      {
+        "username": "bitfinex_exchange_official2",
+        "first": 1793095874637,
+        "last": 1793095874637
       }
     ]
   }
