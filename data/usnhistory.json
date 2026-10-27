@@ -36380,7 +36380,7 @@
     ]
   },
   "5463369284": {
-    "username": "bimzx8",
+    "username": null,
     "entries": [
       {
         "username": "bimzx8",
@@ -64586,6 +64586,11 @@
         "username": "bitfinex_exchange_official2",
         "first": 1793096995170,
         "last": 1793096995170
+      },
+      {
+        "username": "bitfinex_exchange_official2",
+        "first": 1793097063034,
+        "last": 1793097063034
       }
     ]
   },
