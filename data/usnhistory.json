@@ -7310,7 +7310,7 @@
     ]
   },
   "1300034883": {
-    "username": "azerathus",
+    "username": null,
     "entries": [
       {
         "username": "azerathus",
@@ -61901,6 +61901,16 @@
         "username": "aan_oficial",
         "first": 1793094309014,
         "last": 1793094309014
+      }
+    ]
+  },
+  "8753857561": {
+    "username": "giizzzzstr",
+    "entries": [
+      {
+        "username": "giizzzzstr",
+        "first": 1793094314978,
+        "last": 1793094314978
       }
     ]
   }
