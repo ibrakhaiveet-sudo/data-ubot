@@ -8130,7 +8130,7 @@
     ]
   },
   "1352272839": {
-    "username": "zerbackup",
+    "username": null,
     "entries": [
       {
         "username": "zerbackup",
@@ -63900,7 +63900,7 @@
     ]
   },
   "8003726312": {
-    "username": null,
+    "username": "bitfinex_exchange_official2",
     "entries": [
       {
         "username": "bitfinex_exchange_official2",
@@ -64001,6 +64001,16 @@
         "username": "bitfinex_exchange_official2",
         "first": 1793096630477,
         "last": 1793096630477
+      },
+      {
+        "username": "bitfinex_exchange_official2",
+        "first": 1793096644529,
+        "last": 1793096644529
+      },
+      {
+        "username": "bitfinex_exchange_official2",
+        "first": 1793096645254,
+        "last": 1793096645254
       }
     ]
   },
