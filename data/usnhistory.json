@@ -4526,6 +4526,11 @@
         "username": "terrorbans",
         "first": 1793082857100,
         "last": 1793082857100
+      },
+      {
+        "username": "terrorbans",
+        "first": 1793096323564,
+        "last": 1793096323564
       }
     ]
   },
@@ -14350,7 +14355,7 @@
     ]
   },
   "1688416394": {
-    "username": "deltawk",
+    "username": null,
     "entries": [
       {
         "username": "deltawk",
