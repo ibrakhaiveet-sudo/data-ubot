@@ -655,7 +655,7 @@
     ]
   },
   "146680227": {
-    "username": "coindesk_support845",
+    "username": null,
     "entries": [
       {
         "username": "mylifenull",
@@ -30200,7 +30200,7 @@
     ]
   },
   "5167583280": {
-    "username": "gwriders",
+    "username": null,
     "entries": [
       {
         "username": "gwriders",
@@ -30301,6 +30301,16 @@
         "username": "gwriders",
         "first": 1793083749159,
         "last": 1793083749159
+      },
+      {
+        "username": "gwriders",
+        "first": 1793083805673,
+        "last": 1793083805673
+      },
+      {
+        "username": "gwriders",
+        "first": 1793083807356,
+        "last": 1793083807356
       }
     ]
   },
@@ -47920,7 +47930,7 @@
     ]
   },
   "8865206842": {
-    "username": "zipernonchalant",
+    "username": null,
     "entries": [
       {
         "username": "nutss505",
@@ -51846,6 +51856,16 @@
         "username": "parisstore14",
         "first": 1793083782472,
         "last": 1793083782472
+      }
+    ]
+  },
+  "8602651641": {
+    "username": "zicnehu",
+    "entries": [
+      {
+        "username": "zicnehu",
+        "first": 1793083809255,
+        "last": 1793083809255
       }
     ]
   }
