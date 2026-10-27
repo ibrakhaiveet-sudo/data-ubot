@@ -38010,7 +38010,7 @@
     ]
   },
   "7571040577": {
-    "username": "yourusnn",
+    "username": null,
     "entries": [
       {
         "username": "yourusnn",
@@ -57525,7 +57525,7 @@
     ]
   },
   "8346256407": {
-    "username": "ozyzyy",
+    "username": null,
     "entries": [
       {
         "username": "ozyzyy",
@@ -64176,6 +64176,11 @@
         "username": "bitfinex_exchange_official2",
         "first": 1793096751587,
         "last": 1793096751587
+      },
+      {
+        "username": "bitfinex_exchange_official2",
+        "first": 1793096759277,
+        "last": 1793096759277
       }
     ]
   },
