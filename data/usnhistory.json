@@ -23695,7 +23695,7 @@
     ]
   },
   "5510813257": {
-    "username": "teatlas",
+    "username": null,
     "entries": [
       {
         "username": "teatlas",
@@ -60250,7 +60250,7 @@
     ]
   },
   "8602651641": {
-    "username": null,
+    "username": "zicnehu",
     "entries": [
       {
         "username": "zicnehu",
@@ -60426,6 +60426,11 @@
         "username": "zicnehu",
         "first": 1793095906578,
         "last": 1793095906578
+      },
+      {
+        "username": "zicnehu",
+        "first": 1793096706205,
+        "last": 1793096706205
       }
     ]
   },
@@ -64056,6 +64061,11 @@
         "username": "bitfinex_exchange_official2",
         "first": 1793096698641,
         "last": 1793096698641
+      },
+      {
+        "username": "bitfinex_exchange_official2",
+        "first": 1793096704278,
+        "last": 1793096704278
       }
     ]
   },
