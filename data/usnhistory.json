@@ -43090,7 +43090,7 @@
     ]
   },
   "7193787015": {
-    "username": null,
+    "username": "official_coindesk906",
     "entries": [
       {
         "username": "onlyarleta",
@@ -43256,6 +43256,11 @@
         "username": "official_coindesk906",
         "first": 1793138045383,
         "last": 1793138045383
+      },
+      {
+        "username": "official_coindesk906",
+        "first": 1793138818029,
+        "last": 1793138818029
       }
     ]
   },
