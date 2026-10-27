@@ -13126,6 +13126,11 @@
         "username": "topsbypas",
         "first": 1793096447908,
         "last": 1793096447908
+      },
+      {
+        "username": "topsbypas",
+        "first": 1793096462706,
+        "last": 1793096462706
       }
     ]
   },
@@ -21091,6 +21096,11 @@
         "username": "forevertian",
         "first": 1793096165795,
         "last": 1793096165795
+      },
+      {
+        "username": "forevertian",
+        "first": 1793096461573,
+        "last": 1793096461573
       }
     ]
   },
@@ -63705,7 +63715,7 @@
     ]
   },
   "8003726312": {
-    "username": null,
+    "username": "bitfinex_exchange_official2",
     "entries": [
       {
         "username": "bitfinex_exchange_official2",
@@ -63766,6 +63776,11 @@
         "username": "bitfinex_exchange_official2",
         "first": 1793096442602,
         "last": 1793096442602
+      },
+      {
+        "username": "bitfinex_exchange_official2",
+        "first": 1793096460094,
+        "last": 1793096460094
       }
     ]
   },
@@ -63926,6 +63941,16 @@
         "username": "yoxnodelll",
         "first": 1793096442348,
         "last": 1793096442348
+      }
+    ]
+  },
+  "8424223751": {
+    "username": "rif_vorelx",
+    "entries": [
+      {
+        "username": "rif_vorelx",
+        "first": 1793096461960,
+        "last": 1793096461960
       }
     ]
   }
