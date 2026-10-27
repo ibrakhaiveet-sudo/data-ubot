@@ -63335,7 +63335,7 @@
     ]
   },
   "8003726312": {
-    "username": null,
+    "username": "bitfinex_exchange_official2",
     "entries": [
       {
         "username": "bitfinex_exchange_official2",
@@ -63351,6 +63351,11 @@
         "username": "bitfinex_exchange_official2",
         "first": 1793095814023,
         "last": 1793095814023
+      },
+      {
+        "username": "bitfinex_exchange_official2",
+        "first": 1793095862824,
+        "last": 1793095862824
       }
     ]
   }
