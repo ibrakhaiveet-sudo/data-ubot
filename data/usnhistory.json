@@ -3360,7 +3360,7 @@
     ]
   },
   "1092421241": {
-    "username": null,
+    "username": "miunnst",
     "entries": [
       {
         "username": "miunnst",
@@ -3396,6 +3396,11 @@
         "username": "miunnst",
         "first": 1793095837120,
         "last": 1793095837120
+      },
+      {
+        "username": "miunnst",
+        "first": 1793095880534,
+        "last": 1793095880534
       }
     ]
   },
@@ -38815,7 +38820,7 @@
     ]
   },
   "8712905861": {
-    "username": "kaastr26",
+    "username": null,
     "entries": [
       {
         "username": "kaastr26",
@@ -63340,7 +63345,7 @@
     ]
   },
   "8003726312": {
-    "username": null,
+    "username": "bitfinex_exchange_official2",
     "entries": [
       {
         "username": "bitfinex_exchange_official2",
@@ -63366,6 +63371,11 @@
         "username": "bitfinex_exchange_official2",
         "first": 1793095874637,
         "last": 1793095874637
+      },
+      {
+        "username": "bitfinex_exchange_official2",
+        "first": 1793095882166,
+        "last": 1793095882166
       }
     ]
   }
