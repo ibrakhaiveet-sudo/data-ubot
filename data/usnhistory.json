@@ -56965,7 +56965,7 @@
     ]
   },
   "8732408288": {
-    "username": "yudisstore2",
+    "username": null,
     "entries": [
       {
         "username": "yudisstore2",
@@ -64051,6 +64051,11 @@
         "username": "bitfinex_exchange_official2",
         "first": 1793096695174,
         "last": 1793096695174
+      },
+      {
+        "username": "bitfinex_exchange_official2",
+        "first": 1793096698641,
+        "last": 1793096698641
       }
     ]
   },
