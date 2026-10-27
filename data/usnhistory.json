@@ -21521,6 +21521,11 @@
         "username": "forevertian",
         "first": 1793097574964,
         "last": 1793097574964
+      },
+      {
+        "username": "forevertian",
+        "first": 1793097661330,
+        "last": 1793097661330
       }
     ]
   },
@@ -64935,7 +64940,7 @@
     ]
   },
   "8003726312": {
-    "username": "bitfinex_exchange_official2",
+    "username": null,
     "entries": [
       {
         "username": "bitfinex_exchange_official2",
