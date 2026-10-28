@@ -2615,12 +2615,17 @@
     ]
   },
   "1300034883": {
-    "username": null,
+    "username": "azerathus",
     "entries": [
       {
         "username": "azerathus",
         "first": 1793181404960,
         "last": 1793181404960
+      },
+      {
+        "username": "azerathus",
+        "first": 1793193712428,
+        "last": 1793193712428
       }
     ]
   },
@@ -3755,7 +3760,7 @@
     ]
   },
   "1423841357": {
-    "username": null,
+    "username": "csbibistorereal",
     "entries": [
       {
         "username": "csbibistorereal",
@@ -3771,6 +3776,11 @@
         "username": "csbibistorereal",
         "first": 1793193415318,
         "last": 1793193415318
+      },
+      {
+        "username": "csbibistorereal",
+        "first": 1793193711794,
+        "last": 1793193711794
       }
     ]
   },
