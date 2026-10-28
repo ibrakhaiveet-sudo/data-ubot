@@ -1730,7 +1730,7 @@
     ]
   },
   "1237528697": {
-    "username": "kittyrav",
+    "username": null,
     "entries": [
       {
         "username": "kittyrav",
@@ -3676,6 +3676,11 @@
         "username": "rafatharcode",
         "first": 1793193349226,
         "last": 1793193349226
+      },
+      {
+        "username": "rafatharcode",
+        "first": 1793193469957,
+        "last": 1793193469957
       }
     ]
   },
@@ -6370,7 +6375,7 @@
     ]
   },
   "1820473744": {
-    "username": null,
+    "username": "ryuuujir",
     "entries": [
       {
         "username": "ryuuujir",
@@ -6391,6 +6396,11 @@
         "username": "ryuuujir",
         "first": 1793186221604,
         "last": 1793186221604
+      },
+      {
+        "username": "ryuuujir",
+        "first": 1793193474163,
+        "last": 1793193474163
       }
     ]
   },
@@ -8770,7 +8780,7 @@
     ]
   },
   "8634019589": {
-    "username": null,
+    "username": "csartapedia",
     "entries": [
       {
         "username": "csartapedia",
@@ -9956,6 +9966,11 @@
         "username": "csartapedia",
         "first": 1793193457831,
         "last": 1793193457831
+      },
+      {
+        "username": "csartapedia",
+        "first": 1793193472829,
+        "last": 1793193472829
       }
     ]
   },
@@ -16430,7 +16445,7 @@
     ]
   },
   "8708415285": {
-    "username": null,
+    "username": "coupedegrade",
     "entries": [
       {
         "username": "coupedegrade",
@@ -16456,6 +16471,16 @@
         "username": "coupedegrade",
         "first": 1793186835155,
         "last": 1793186835155
+      },
+      {
+        "username": "coupedegrade",
+        "first": 1793193469313,
+        "last": 1793193469313
+      },
+      {
+        "username": "coupedegrade",
+        "first": 1793193472803,
+        "last": 1793193472803
       }
     ]
   },
