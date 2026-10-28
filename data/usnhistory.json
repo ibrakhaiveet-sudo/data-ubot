@@ -1170,7 +1170,7 @@
     ]
   },
   "1237528697": {
-    "username": "kittyrav",
+    "username": null,
     "entries": [
       {
         "username": "kittyrav",
@@ -8416,6 +8416,11 @@
         "username": "lajurjaka",
         "first": 1793180975963,
         "last": 1793180975963
+      },
+      {
+        "username": "lajurjaka",
+        "first": 1793183004151,
+        "last": 1793183004151
       }
     ]
   },
@@ -15605,7 +15610,7 @@
     ]
   },
   "8716264216": {
-    "username": "official_coindesk_support027",
+    "username": null,
     "entries": [
       {
         "username": "hohoditzy2",
