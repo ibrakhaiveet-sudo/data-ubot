@@ -1,0 +1,14 @@
+{
+  "8911856198": {
+    "rules": [
+      {
+        "trigger": "off",
+        "reply": "sbr dulu"
+      }
+    ],
+    "all": {
+      "enabled": false,
+      "reply": ""
+    }
+  }
+}
