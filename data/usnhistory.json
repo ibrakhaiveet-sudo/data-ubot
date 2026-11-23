@@ -50805,7 +50805,7 @@
     ]
   },
   "8709101535": {
-    "username": "franzasli",
+    "username": null,
     "entries": [
       {
         "username": "franzasli",
@@ -57416,6 +57416,11 @@
         "username": "berantemn",
         "first": 1795410989457,
         "last": 1795410989457
+      },
+      {
+        "username": "berantemn",
+        "first": 1795420438825,
+        "last": 1795420438825
       }
     ]
   },
@@ -59961,6 +59966,16 @@
         "username": "coindesk_support2512",
         "first": 1795420232963,
         "last": 1795420232963
+      }
+    ]
+  },
+  "8806536785": {
+    "username": "yukozumd",
+    "entries": [
+      {
+        "username": "yukozumd",
+        "first": 1795420436614,
+        "last": 1795420436614
       }
     ]
   }
