@@ -39585,7 +39585,7 @@
     ]
   },
   "8273726963": {
-    "username": null,
+    "username": "gb_bebas_permisi",
     "entries": [
       {
         "username": "gb_bebas_permisi",
@@ -39606,6 +39606,11 @@
         "username": "gb_bebas_permisi",
         "first": 1795428554317,
         "last": 1795428554317
+      },
+      {
+        "username": "gb_bebas_permisi",
+        "first": 1795454463271,
+        "last": 1795454463271
       }
     ]
   },
